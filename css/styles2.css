@@ -59,9 +59,11 @@ h1 {
 
 button:hover {
   background-color: rgb(18, 245, 10);
-  color: white;
+  color: rgb(0, 0, 0);
   transition: 0.5s;
   cursor: pointer;
+  width: 40%;
+  height: 1080%;
 }
 
 button{
@@ -74,19 +76,6 @@ button{
   border:0.1em solid #FFFFFF;
   padding: 10px;
   color: whitesmoke;
-}
-
-
-.job {
-  float: left;
-  width: 80%;
-  height: 500px;
-  display: inline-block;
-  box-shadow: 2px 2px 20px black;
-  border-radius: 5px;
-  margin: 2%;
-  grid-template-columns: repeat(2, 1fr);
-  z-index: 155;
 }
 
 
