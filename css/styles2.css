@@ -8,7 +8,7 @@ body {
 
 #mainh {
   text-align: center;
-  margin-top: 65px;
+  margin-top: 60px;
   color: #49ff18;
   font-weight: 300;
   font-size: 400%;
@@ -40,7 +40,7 @@ p {
   border-top-left-radius: 5px;
   object-fit: cover;
   width: 100%;
-  height: 150px;
+  height: 180px;
 }
 
 .title {
